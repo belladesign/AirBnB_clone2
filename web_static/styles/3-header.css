@@ -1,0 +1,18 @@
+header {
+	position: fixed;
+	background: white;
+	left: 0;
+	top: 0;
+	height:70px;
+	width: 100%;
+	border-bottom: solid 1px #CCCCCC;
+}
+
+.logo {
+	background-image: url('../images/logo.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 100%;
+	margin-left: 20px;
+	display: block;
+}
